@@ -1,0 +1,13 @@
+# Project dependencies. Choose a PyTorch build compatible with your runtime.
+torch
+torchvision
+numpy
+pandas
+matplotlib
+scikit-learn
+tabulate
+nvidia-ml-py
+gdown
+jupyterlab
+nbformat
+ipython
